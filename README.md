@@ -40,7 +40,7 @@ Application web Angular permettant la gestion d'une bibliothèque avec système 
 
 1. Cloner le repository
 ```bash
-git clone https://github.com/your-username/bibliotheque-fulgence-app.git
+git clone https://github.com/Fulgencedev/bibliotheque-fulgence-app.git
 ```
 
 2. Installer les dépendances
@@ -104,7 +104,7 @@ git push origin feature/AmazingFeature
 ## 🔗 API Backend
 
 Cette application se connecte à une API REST développée avec Spring Boot. 
-Le repository du backend est disponible ici : https://github.com/RobinsonNdeckyDev/api-biblio-fulgence-app.git
+Le repository du backend est disponible ici : https://github.com/Fulgencedev/api-biblio-fulgence-app.git
 
 
 ## 🙏 Remerciements
